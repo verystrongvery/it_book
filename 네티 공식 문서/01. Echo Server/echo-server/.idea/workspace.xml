@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1cc272-b6e9-4a62-a949-d55aaf656cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/02. 첫 번째 네티 애플리케이션/2.1 개발 환경 설정.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/02. 첫 번째 네티 애플리케이션/2.2 네티 클라이언트 &amp; 서버 개요.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/02. 첫 번째 네티 애플리케이션/2.3 Echo 서버와 클라이언트의 빌드와 실행.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/04. 전송/4.1 전송 API.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <updated>1707719698110</updated>
       <workItem from="1707719699255" duration="1841000" />
       <workItem from="1707727836082" duration="2283000" />
-      <workItem from="1708152134610" duration="3481000" />
+      <workItem from="1708152134610" duration="4679000" />
     </task>
     <servers />
   </component>
