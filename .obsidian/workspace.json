@@ -148,6 +148,14 @@
   },
   "active": "fe2282f2acbaf589",
   "lastOpenFiles": [
+    "네티 인 액션/05. ByteBuf/5.4 참조카운팅.md",
+    "네티 인 액션/05. ByteBuf/5.4 ByteBufHolder 인터페이스.md",
+    "네티 인 액션/05. ByteBuf/5.3 바이트 수준 작업.md",
+    "네티 인 액션/05. ByteBuf/5.3 바이트 수준 작업.ms",
+    "네티 인 액션/05. ByteBuf/5.2 ByteBuf 클래스: 네티의 데이터 컨테이너.md",
+    "네티 인 액션/05. ByteBuf/5.1 ByteBuf API.md",
+    "네티 인 액션/05. ByteBuf/ByteBuf API.md",
+    "네티 인 액션/05. ByteBuf",
     "네티 인 액션/04. 전송/4.1 전송 API.md",
     "네티 인 액션/example/src/main/java/org/example/ex04/NettyNioServer.java",
     "네티 인 액션/example/src/main/java/org/example/ex04/NettyOioServer.java",
@@ -160,8 +168,6 @@
     "네티 인 액션/03. 네티 컴포넌트와 설계/3.1 Channel, EventLoop, ChannelFuture.md",
     "네티 인 액션/03. 네티 컴포넌트와 설계",
     "네티 인 액션/example/target/classes/org/example/ex02/EchoServerHandler.class",
-    "네티 인 액션/example/target/classes/org/example/ex02/EchoServer.class",
-    "네티 인 액션/example/target/classes/org/example/ex02/EchoServer$1.class",
     "네티 인 액션/02. 첫 번째 네티 애플리케이션/2.3 Echo 서버와 클라이언트의 빌드와 실행.md",
     "네티 인 액션/02. 첫 번째 네티 애플리케이션/2.2 네티 클라이언트 & 서버 개요.md",
     "네티 인 액션/02. 첫 번째 네티 애플리케이션/2.2 네티 클라이언트/서버 개요.md",
@@ -178,12 +184,6 @@
     "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.10 민감 데이터 관리.md",
     "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.9 Config 설정.md",
     "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.8 초기화 컨테이너.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.7 상태 확인.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.6 리소스 관리.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.5 볼륨 연결.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.4 환경변수 설정.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.3 실행 명령 및 파라미터 지정.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.2 라벨링 시스템.md",
     "Untitled.canvas"
   ]
 }

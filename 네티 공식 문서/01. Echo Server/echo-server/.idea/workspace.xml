@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1cc272-b6e9-4a62-a949-d55aaf656cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/04. 전송/4.1 전송 API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.1 ByteBuf API.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.2 ByteBuf 클래스: 네티의 데이터 컨테이너.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.3 바이트 수준 작업.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.4 참조카운팅.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
