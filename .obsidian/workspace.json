@@ -148,6 +148,12 @@
   },
   "active": "fe2282f2acbaf589",
   "lastOpenFiles": [
+    "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md",
+    "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md",
+    "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.1 ChannelHandler 계층.md",
+    "네티 인 액션/06. ChannelHandler와 ChannelPipeline/ChannelHandler 계층.md",
+    "네티 인 액션/06. ChannelHandler와 ChannelPipeline",
+    "네티 인 액션/06. ChannelHandler와 ChannelPipeline.md",
     "네티 인 액션/05. ByteBuf/5.4 참조카운팅.md",
     "네티 인 액션/05. ByteBuf/5.4 ByteBufHolder 인터페이스.md",
     "네티 인 액션/05. ByteBuf/5.3 바이트 수준 작업.md",
@@ -167,7 +173,6 @@
     "네티 인 액션/03. 네티 컴포넌트와 설계/3.2 ChannelHandler와 ChannelPipeline.md",
     "네티 인 액션/03. 네티 컴포넌트와 설계/3.1 Channel, EventLoop, ChannelFuture.md",
     "네티 인 액션/03. 네티 컴포넌트와 설계",
-    "네티 인 액션/example/target/classes/org/example/ex02/EchoServerHandler.class",
     "네티 인 액션/02. 첫 번째 네티 애플리케이션/2.3 Echo 서버와 클라이언트의 빌드와 실행.md",
     "네티 인 액션/02. 첫 번째 네티 애플리케이션/2.2 네티 클라이언트 & 서버 개요.md",
     "네티 인 액션/02. 첫 번째 네티 애플리케이션/2.2 네티 클라이언트/서버 개요.md",
@@ -179,11 +184,6 @@
     "윤성우 TCP&IP 소켓 프로그래밍/17. 멀티쓰레드 기반의 서버구현/17.2 쓰레드의 생성 및 실행.md",
     "윤성우 TCP&IP 소켓 프로그래밍/17. 멀티쓰레드 기반의 서버구현/17.1 쓰레드의 이론적 이해.md",
     "윤성우 TCP&IP 소켓 프로그래밍/3. 주소체계와 데이터 정렬/3.1 소켓에 할당되는 IP주소와 PORT 번호.md",
-    "윤성우 TCP&IP 소켓 프로그래밍/2. 소켓의 타입과 프로토콜의 설정/2.1 소켓의 프로토콜과 그에 따른 데이터 전송 특성.md",
-    "윤성우 TCP&IP 소켓 프로그래밍/1. 네트워크 프로그래밍과 소켓의 이해/1.1 네트워크 프로그래밍과 소켓의 이해.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.10 민감 데이터 관리.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.9 Config 설정.md",
-    "핵심만 콕! 쿠버네티스/3. Pod 살펴보기/3.8 초기화 컨테이너.md",
     "Untitled.canvas"
   ]
 }

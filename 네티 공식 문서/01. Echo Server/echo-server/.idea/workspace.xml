@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1cc272-b6e9-4a62-a949-d55aaf656cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.1 ByteBuf API.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.2 ByteBuf 클래스: 네티의 데이터 컨테이너.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.3 바이트 수준 작업.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.4 참조카운팅.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.1 ChannelHandler 계층.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,7 @@
       <updated>1707719698110</updated>
       <workItem from="1707719699255" duration="1841000" />
       <workItem from="1707727836082" duration="2283000" />
-      <workItem from="1708152134610" duration="4679000" />
+      <workItem from="1708152134610" duration="5279000" />
     </task>
     <servers />
   </component>
