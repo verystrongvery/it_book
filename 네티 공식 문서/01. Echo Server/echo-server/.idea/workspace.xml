@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1cc272-b6e9-4a62-a949-d55aaf656cf0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/02. 첫 번째 네티 애플리케이션/2.2 네티 클라이언트 &amp; 서버 개요.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/02. 첫 번째 네티 애플리케이션/2.2 네티 클라이언트 &amp; 서버 개요.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/04. 전송/4.2 포함된 전송.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/04. 전송/4.1 전송 API.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/04. 전송/4.1 전송 API.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

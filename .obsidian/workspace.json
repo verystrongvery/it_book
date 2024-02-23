@@ -148,6 +148,7 @@
   },
   "active": "fe2282f2acbaf589",
   "lastOpenFiles": [
+    "네티 인 액션/04. 전송/4.2 포함된 전송.md",
     "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md",
     "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md",
     "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.1 ChannelHandler 계층.md",
@@ -183,7 +184,6 @@
     "네티 인 액션/01. 네티: 비동기식 이벤트 기반 네트워킹 프레임워크/1.1 자바의 네트워킹.md",
     "윤성우 TCP&IP 소켓 프로그래밍/17. 멀티쓰레드 기반의 서버구현/17.2 쓰레드의 생성 및 실행.md",
     "윤성우 TCP&IP 소켓 프로그래밍/17. 멀티쓰레드 기반의 서버구현/17.1 쓰레드의 이론적 이해.md",
-    "윤성우 TCP&IP 소켓 프로그래밍/3. 주소체계와 데이터 정렬/3.1 소켓에 할당되는 IP주소와 PORT 번호.md",
     "Untitled.canvas"
   ]
 }
