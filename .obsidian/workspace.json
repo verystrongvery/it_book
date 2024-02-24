@@ -148,6 +148,7 @@
   },
   "active": "fe2282f2acbaf589",
   "lastOpenFiles": [
+    "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.4 예외 처리.md",
     "네티 인 액션/example/target/classes/org/example/ex05/ByteBufExamples.class",
     "네티 인 액션/example/target/classes/org/example/ex05",
     "네티 인 액션/example/target/classes/org/example/ex04/NettyNioServer.class",
@@ -158,7 +159,6 @@
     "네티 인 액션/example/target/classes/org/example/ex04/NettyOioServer$1$1.class",
     "네티 인 액션/example/target/classes/org/example/ex04/PlainNioServer.class",
     "네티 인 액션/example/target/classes/org/example/ex04/PlainOioServer.class",
-    "네티 인 액션/example/target/classes/org/example/ex04/PlainOioServer$1.class",
     "네티 인 액션/04. 전송/4.2 포함된 전송.md",
     "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md",
     "네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md",

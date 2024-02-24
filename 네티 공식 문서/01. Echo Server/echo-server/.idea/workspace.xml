@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1cc272-b6e9-4a62-a949-d55aaf656cf0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.4 예외 처리.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.1 ByteBuf API.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.1 ByteBuf API.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.2 ByteBuf 클래스: 네티의 데이터 컨테이너.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/05. ByteBuf/5.2 ByteBuf 클래스: 네티의 데이터 컨테이너.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
