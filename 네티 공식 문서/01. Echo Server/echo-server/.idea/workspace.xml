@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d1cc272-b6e9-4a62-a949-d55aaf656cf0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.4 예외 처리.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/07. EventLoop와 스레딩 모델/7.1 스레딩 모델의 개요.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/07. EventLoop와 스레딩 모델/7.2 EventLoop 인터페이스.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/07. EventLoop와 스레딩 모델/7.3 작업 스케줄링.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../네티 인 액션/07. EventLoop와 스레딩 모델/7.4 구현 세부 사항.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.obsidian/workspace.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.obsidian/workspace.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.2 ChannelPipeline 인터페이스.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../네티 인 액션/06. ChannelHandler와 ChannelPipeline/6.3 ChannelHandlerContext 인터페이스.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
