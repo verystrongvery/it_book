@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T01:43:15.265Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cqobHyKvGOOndzLS1MON" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T01:50:49.615Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ueaZmAseVlJ5w95Bdnm-" version="24.2.5" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
     <mxGraphModel dx="2261" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,18 @@
         <mxCell id="1" parent="0" />
         <mxCell id="7p5HSKGRJLp-K92O3KBX-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.velog.io/images/nari120/post/b14b4105-a561-4cc3-bc9f-87a5ee4eb1b6/aws.png;" vertex="1" parent="1">
           <mxGeometry x="-240" y="-80" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7p5HSKGRJLp-K92O3KBX-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ztalk-admin.zybisys.com/assets/blogs/images/90905203-ebe5-4958-b728-4dd9a64c6d03.png;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="80" width="277.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7p5HSKGRJLp-K92O3KBX-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://bobcares.com/wp-content/uploads/2022/04/Amazon_Elastic_Container_Registry__ECR_.png;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="240" width="106.89" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7p5HSKGRJLp-K92O3KBX-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://velog.velcdn.com/images/chrishan/post/9a9b135f-27a4-49b0-a512-dfa2cbf5d671/image.png;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="240" width="229.41" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7p5HSKGRJLp-K92O3KBX-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://velog.velcdn.com/images/zerowestys/post/d87b47eb-cdcd-4392-a475-7177759e7d69/image.png;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-200" width="197.8" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
