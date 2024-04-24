@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T11:55:40.320Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="GpJfHlU9JWzNKYeGPZ0g" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T11:57:49.942Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OVmfgsM90f8tkjLa1RZu" version="24.2.8" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
     <mxGraphModel dx="2513" dy="2093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           <mxGeometry x="-463" y="742.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-102" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;1.&amp;nbsp;수집한 로그를 저장하는 서버 역할을 하는 AWS EC2 인스턴스 생성&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-620" y="-560" width="440" height="30" as="geometry" />
+          <mxGeometry x="-480" y="90" width="440" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;12. 로그를 수집하는 서버 역할을 하는 EC2 인스턴스 구축&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-620" y="-800" width="370" height="30" as="geometry" />
