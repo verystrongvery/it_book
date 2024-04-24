@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T08:03:44.850Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DzeYG4AbTNfvo7PxLANK" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T10:14:10.666Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QYofMiZ2lR9NwJXcbz0I" version="24.2.8" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
-    <mxGraphModel dx="3088" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3340" dy="2093" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="F6xdPgScUfyYruxhGC5Z-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-480" y="200" width="280" height="519.83" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-400" y="560" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="118.22" y="920" width="260" height="160" as="geometry" />
+          <mxGeometry x="118.22" y="920" width="281.78" height="160" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-481.09" y="840" width="281.09" height="240" as="geometry" />
@@ -86,7 +86,7 @@
         <mxCell id="F6xdPgScUfyYruxhGC5Z-57" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://velog.velcdn.com/images/zerowestys/post/d87b47eb-cdcd-4392-a475-7177759e7d69/image.png;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-760" width="131.87" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F6xdPgScUfyYruxhGC5Z-95" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;6.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px; font-weight: 700;&quot;&gt;수집한 로그를 DB에 저장하는&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;SAS App을 EC2로 전송&lt;/b&gt;&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.861;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="F6xdPgScUfyYruxhGC5Z-13">
+        <mxCell id="F6xdPgScUfyYruxhGC5Z-95" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;8.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px; font-weight: 700;&quot;&gt;수집한 로그를 DB에 저장하는&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;App과 sasctl을 EC2로 전송&lt;/b&gt;&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.861;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="F6xdPgScUfyYruxhGC5Z-13" edge="1">
           <mxGeometry x="0.0241" y="1" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-239" y="840" as="sourcePoint" />
             <mxPoint x="-423" y="720" as="targetPoint" />
@@ -116,7 +116,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZJpFKRgkHxRK9uxAFxAj-26" value="수집한 로그를 DB에 저장하는 SAS App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-359.99999999999994" y="880" width="40" height="40" as="geometry" />
+          <mxGeometry x="-279.99999999999994" y="880" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZJpFKRgkHxRK9uxAFxAj-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-645" y="679.8300000000002" width="40" height="40" as="geometry" />
@@ -150,41 +150,53 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-3" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-3" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="157.29" y="960" width="67.23" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-4" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="278.84000000000003" y="960" width="67.23" height="60" as="geometry" />
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-4" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="290.00000000000006" y="960" width="67.23" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-7" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-7" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-438.24" y="960" width="67.23" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-8" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-8" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-320" y="960" width="67.23" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-10" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-10" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-368.61000000000007" y="360" width="67.23" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-11" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-11" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-374.4" y="578.5999999999999" width="68.8" height="61.4" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-12" value="수집한 로그를 DB에 저장하는 SAS App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-360.53999999999996" y="240" width="40" height="40" as="geometry" />
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-12" value="수집한 로그를 DB에 저장하는 App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-280" y="240" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/60086878/103609779-f2459300-4f61-11eb-951e-8fa51bc3c9e0.png;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/60086878/103609779-f2459300-4f61-11eb-951e-8fa51bc3c9e0.png;" parent="1" vertex="1">
           <mxGeometry x="-400" y="530" width="139.01" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-16" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-16" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="160.59999999999994" y="680" width="67.23" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-17" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-17" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="278.8399999999999" y="680" width="67.23" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;7. Tibero DB 구동&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-19" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;6. Tibero DB 구동&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-400" y="680" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="frvRR7x3_kvr6YqS0VyV-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;8. SAS 실행&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="frvRR7x3_kvr6YqS0VyV-22" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;7. SAS 실행&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-380" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CKml3EymlqpwPDziG3Cb-1" value="sasctl" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-439.99999999999994" y="880" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CKml3EymlqpwPDziG3Cb-2" value="sasctl" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-440" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CKml3EymlqpwPDziG3Cb-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;9. sasctl을 활용하여 App 배포&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="frvRR7x3_kvr6YqS0VyV-12" target="frvRR7x3_kvr6YqS0VyV-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="670" as="sourcePoint" />
+            <mxPoint x="-330" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
