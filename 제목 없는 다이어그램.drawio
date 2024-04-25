@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T11:42:13.569Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Az96XgMDiYwTjOS5sAP4" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T11:57:24.926Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_SL4HsJl5glfEz4SW2ug" version="24.3.0" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
-    <mxGraphModel dx="2261" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,6 +174,157 @@
         </mxCell>
         <mxCell id="1CPqISgKZnZYia7O7tfp-2" value="&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;1. AWS EC2 환경에서 SAS 구축전 준비&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#80ff00&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;2. AWS EC2 환경에서 SAS 구축&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;3. 로그를 수집할 EC2 구축&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;4. 수집되는 로그가 DB에 저장되는 과정&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="121.52999999999997" y="360" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1121.09" y="160" width="280" height="519.83" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1201.09" y="520" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1719.31" y="880" width="281.78" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="800" width="281.09" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ztalk-admin.zybisys.com/assets/blogs/images/90905203-ebe5-4958-b728-4dd9a64c6d03.png;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="100" width="138.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://bobcares.com/wp-content/uploads/2022/04/Amazon_Elastic_Container_Registry__ECR_.png;" vertex="1" parent="1">
+          <mxGeometry x="1719.31" y="518.6000000000001" width="71.26" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://goharbor.io/img/logos/harbor-horizontal-color.png;" vertex="1" parent="1">
+          <mxGeometry x="1720.84" y="840" width="140.76" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://littledeep.com/wp-content/uploads/2020/11/computer-illustration-v2-png-1024x853.png;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="1121.09" y="720" width="96.04" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-17" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1722.62" y="600" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="1720.84" y="820" width="108.84" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-19" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;1.4&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;ECR에 도커 이미지 push&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="1CPqISgKZnZYia7O7tfp-10" target="1CPqISgKZnZYia7O7tfp-17">
+          <mxGeometry x="-0.019" y="1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1561.09" y="1200" as="sourcePoint" />
+            <mxPoint x="1761.09" y="590" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ztalk-admin.zybisys.com/assets/blogs/images/90905203-ebe5-4958-b728-4dd9a64c6d03.png;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-180" width="138.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-26" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;1.6&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px; font-weight: 700;&quot;&gt;수집한 로그를 DB에 저장하는&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;App과 sasctl&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;전송&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;entryX=0.861;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="1CPqISgKZnZYia7O7tfp-7">
+          <mxGeometry x="-0.0014" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1362.09" y="800" as="sourcePoint" />
+            <mxPoint x="1178.09" y="680" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;로컬 PC&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1138.09" y="702.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-28" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;1.1 SAS를 설치할 EC2 구축&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1121.09" y="70" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-29" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;3.1 로그를 수집하는 서버 역할을 하는 EC2 구축&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1121.09" y="-210" width="306.09" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-30" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;1.2 HyperRegistry의 도커 이미지를 저장하기 위한 ECR 구축&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1719.31" y="490" width="401.78" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-32" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;1.3&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;HyperRegistry의 도커 이미지 pull&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1CPqISgKZnZYia7O7tfp-9" target="1CPqISgKZnZYia7O7tfp-10">
+          <mxGeometry x="0.0056" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1681.09" y="1200" as="sourcePoint" />
+            <mxPoint x="1321.09" y="1160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-33" value="수집한 로그를 DB에 저장하는 SAS App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1321.0900000000001" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-34" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;1.5 ECR에 업로드된 도커 이미지 pull&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.921;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1CPqISgKZnZYia7O7tfp-17" target="1CPqISgKZnZYia7O7tfp-7">
+          <mxGeometry x="-0.0005" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1431.09" y="700" as="sourcePoint" />
+            <mxPoint x="1406.09" y="639" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-35" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1758.38" y="920" width="67.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-36" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1891.0900000000001" y="920" width="67.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-37" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1162.85" y="920" width="67.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-38" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1281.09" y="920" width="67.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-39" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1232.48" y="320" width="67.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-40" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1226.69" y="538.5999999999999" width="68.8" height="61.4" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-41" value="수집한 로그를 DB에 저장하는 App" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1321.09" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-42" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://user-images.githubusercontent.com/60086878/103609779-f2459300-4f61-11eb-951e-8fa51bc3c9e0.png;" vertex="1" parent="1">
+          <mxGeometry x="1201.09" y="490" width="139.01" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-43" value="Super App Server" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1761.69" y="640" width="67.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-44" value="Tibeo DB" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://subicura.com/generated/assets/article_images/2017-01-19-docker-guide-for-beginners-1/docker-logo-800-b3c79c1cb.png;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1879.9299999999998" y="640" width="67.23" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-45" value="&lt;font color=&quot;#80ff00&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;2.1 Tibero DB 구동&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1201.09" y="640" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-46" value="&lt;font color=&quot;#80ff00&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;2.2 SAS 실행&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1221.09" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-47" value="sasctl" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1161.0900000000001" y="840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-48" value="sasctl" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/28/28857.png;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1161.09" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-49" value="&lt;font color=&quot;#80ff00&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;2.3 sasctl을 활용하여 App 배포&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1CPqISgKZnZYia7O7tfp-41" target="1CPqISgKZnZYia7O7tfp-39">
+          <mxGeometry x="0.0031" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1221.09" y="630" as="sourcePoint" />
+            <mxPoint x="1271.09" y="580" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-50" value="&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;4.3 수집한 로그를 DB에 저장&lt;/b&gt;&lt;/font&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1CPqISgKZnZYia7O7tfp-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1221.09" y="490" as="sourcePoint" />
+            <mxPoint x="1266.09" y="490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-51" value="&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;1. AWS EC2 환경에서 SAS 구축전 준비&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#80ff00&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;2. AWS EC2 환경에서 SAS 구축&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;3. 로그를 수집할 EC2 구축&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;4. 수집되는 로그가 DB에 저장되는 과정&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1722.62" y="320" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-52" value="3.2 fluentd 설치" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.velog.io/images/seho100/post/585881fb-0857-4aba-8400-ea22a0fa12c1/fluentD.jpg;fontStyle=1;fontColor=#0000FF;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1157.1599999999999" y="-80" width="117.86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-53" value="&lt;b style=&quot;forced-color-adjust: none; color: rgb(255, 0, 255); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 15px;&quot;&gt;4&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;forced-color-adjust: none; color: rgb(255, 0, 255); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;forced-color-adjust: none; font-size: 15px;&quot;&gt;.2&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#ff00ff&quot;&gt;수집한 로그를 SAS에 전송&lt;/font&gt;&lt;/b&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0.805;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1CPqISgKZnZYia7O7tfp-23">
+          <mxGeometry x="-0.375" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="90" as="sourcePoint" />
+            <mxPoint x="1281" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1CPqISgKZnZYia7O7tfp-54" value="&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;4.1 fluentd가 서버에서 로그 수집&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-110" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
