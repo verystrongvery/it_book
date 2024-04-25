@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T11:33:50.814Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="T-tw-Fbc40A7RGiITkWh" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T11:42:13.569Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Az96XgMDiYwTjOS5sAP4" version="24.3.0" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
     <mxGraphModel dx="2261" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1CPqISgKZnZYia7O7tfp-2" value="&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 20px;&quot;&gt;1. AWS EC2 환경에서 SAS 구축전 준비&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#80ff00&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;2. AWS EC2 환경에서 SAS 구축&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;3. 로그를 수집할 EC2 구축&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 20px;&quot;&gt;&lt;font color=&quot;#ff00ff&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;b style=&quot;&quot;&gt;4. 수집되는 로그가 DB에 저장되는 과정&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="121.52999999999997" y="320" width="360" height="110" as="geometry" />
+          <mxGeometry x="121.52999999999997" y="360" width="360" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
