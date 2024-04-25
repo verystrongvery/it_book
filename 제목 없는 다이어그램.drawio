@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-25T03:42:20.904Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ka_rb1h9TI70_r1GGOBx" version="24.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-25T06:43:14.315Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Yleqx8xAaOBcIxXM5wNI" version="24.2.9" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
-    <mxGraphModel dx="2876" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="1955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
         <mxCell id="7p5HSKGRJLp-K92O3KBX-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://velog.velcdn.com/images/chrishan/post/9a9b135f-27a4-49b0-a512-dfa2cbf5d671/image.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="238.91" y="120" width="152.94" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="F6xdPgScUfyYruxhGC5Z-1" value="15. cloudwatch가 로그 수집시 생성한 Lambda 함수가 호출되도록 Lambda Trigger 지정" style="shape=image;verticalLabelPosition=top;labelBackgroundColor=default;verticalAlign=bottom;aspect=fixed;imageAspect=0;image=https://blog.kakaocdn.net/dn/bXjjYC/btryDQiFG0G/L6pasr75mEclPAiAKDDT8K/img.png;labelPosition=center;align=center;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="F6xdPgScUfyYruxhGC5Z-1" value="13. cloudwatch가 로그 수집시 생성한 Lambda 함수가 호출되도록 Lambda Trigger 지정" style="shape=image;verticalLabelPosition=top;labelBackgroundColor=default;verticalAlign=bottom;aspect=fixed;imageAspect=0;image=https://blog.kakaocdn.net/dn/bXjjYC/btryDQiFG0G/L6pasr75mEclPAiAKDDT8K/img.png;labelPosition=center;align=center;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="238.91" y="-120" width="128" height="80" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://goharbor.io/img/logos/harbor-horizontal-color.png;" parent="1" vertex="1">
@@ -71,7 +71,7 @@
           <mxGeometry x="-444.09" width="177.68" height="20" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;16. Cloudwatch가 서버에서 로그 수집&lt;/font&gt;&lt;/b&gt;" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="F6xdPgScUfyYruxhGC5Z-67" target="F6xdPgScUfyYruxhGC5Z-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
+          <mxGeometry x="0.0018" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-444.09" y="15" as="sourcePoint" />
             <mxPoint x="-753.09" y="-80" as="targetPoint" />
             <mxPoint as="offset" />
@@ -88,7 +88,7 @@
           <mxGeometry x="-463" y="742.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-102" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;1.&amp;nbsp;수집한 로그를 저장하는 서버 역할을 하는 EC2 구축&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-480" y="110" width="440" height="30" as="geometry" />
+          <mxGeometry x="-480" y="110" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-103" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;10. 로그를 수집하는 서버 역할을 하는 EC2 구축&lt;/b&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-130" width="306.09" height="30" as="geometry" />
@@ -96,7 +96,7 @@
         <mxCell id="F6xdPgScUfyYruxhGC5Z-104" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;2. HyperRegistry의 도커 이미지를 저장하기 위한 ECR 구축&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="118.22" y="530" width="388.47" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F6xdPgScUfyYruxhGC5Z-107" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px; font-weight: 700; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;14. 수집한 로그를 HTTP 요청을 통해 SAS로 전송하는 Lambda 함수 생성&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="F6xdPgScUfyYruxhGC5Z-107" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px; font-weight: 700; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;12. 수집한 로그를 HTTP 요청을 통해 SAS로 전송하는 Lambda 함수 생성&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110.44" y="80" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZJpFKRgkHxRK9uxAFxAj-24" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;3.&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;HyperRegistry의 도커 이미지 pull&lt;/b&gt;&lt;/span&gt;" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="F6xdPgScUfyYruxhGC5Z-24" target="F6xdPgScUfyYruxhGC5Z-11" edge="1">
