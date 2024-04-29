@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-29T05:15:42.081Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VBszc50i-B5wd-W1uX5_" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-29T05:17:54.401Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1gs_rCgiu_qCH2IhskZm" version="24.3.0" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
-    <mxGraphModel dx="4261" dy="1380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2901" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,7 +94,7 @@
           <mxGeometry x="-1118.91" y="70" width="306.09" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-104" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;1.2 HyperRegistry의 도커 이미지를 저장하기 위한 ECR 구축&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-120.69" y="510" width="401.78" height="30" as="geometry" />
+          <mxGeometry x="-120.69" y="490" width="401.78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-107" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px; font-weight: 700; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;3.3 수집한 로그를 HTTP 요청을 통해 SAS로 전송하는 Lambda 함수 생성&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1242.8200000000002" y="565" width="470" height="30" as="geometry" />
