@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T06:21:30.913Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="dTfG8AQEkS4K0riwXJS-" version="24.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T06:29:31.029Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2S9Ekm4wrJ4G-bs2iju2" version="24.3.0" type="github">
   <diagram name="페이지-1" id="yUfMY9TB-R7TqejbporP">
     <mxGraphModel dx="3860" dy="1168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="7p5HSKGRJLp-K92O3KBX-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://bobcares.com/wp-content/uploads/2022/04/Amazon_Elastic_Container_Registry__ECR_.png;" parent="1" vertex="1">
           <mxGeometry x="-120.69" y="518.6000000000001" width="71.26" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7p5HSKGRJLp-K92O3KBX-7" value="c" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://velog.velcdn.com/images/chrishan/post/9a9b135f-27a4-49b0-a512-dfa2cbf5d671/image.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="7p5HSKGRJLp-K92O3KBX-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://velog.velcdn.com/images/chrishan/post/9a9b135f-27a4-49b0-a512-dfa2cbf5d671/image.png;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-1080" y="598.6" width="114.71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F6xdPgScUfyYruxhGC5Z-1" value="3.4 cloudwatch가 로그 수집시 생성한 Lambda 함수가 호출되도록 Lambda Trigger 지정" style="shape=image;verticalLabelPosition=top;labelBackgroundColor=default;verticalAlign=bottom;aspect=fixed;imageAspect=0;image=https://blog.kakaocdn.net/dn/bXjjYC/btryDQiFG0G/L6pasr75mEclPAiAKDDT8K/img.png;labelPosition=center;align=center;fontStyle=1;fontSize=15;fontColor=#0000FF;" parent="1" vertex="1">
