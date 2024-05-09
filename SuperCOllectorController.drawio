@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T11:56:29.720Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hggFBThQnJmcuYgnqeaB" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T11:56:42.637Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KZnnLL9k-LB0DLOurr4m" version="24.3.1" type="github">
   <diagram name="페이지-1" id="PzCZuR1cD7YFBrOf6Ocj">
     <mxGraphModel dx="5101" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="-1720" y="350" width="192" height="120" as="geometry" />
         </mxCell>
         <mxCell id="V3F6REiF7EaECnxvjObc-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://oopy.lazyrockets.com/api/rest/cdn/image/4bf5872a-277f-477a-812f-607eee9a624f.png;" parent="1" vertex="1">
-          <mxGeometry x="-1919.9999999999998" y="1000" width="346.64" height="70" as="geometry" />
+          <mxGeometry x="-1919.9999999999998" y="1040" width="346.64" height="70" as="geometry" />
         </mxCell>
         <mxCell id="V3F6REiF7EaECnxvjObc-5" value="[&#xa;  {&quot;date&quot;:&quot;DATE_EXAMPLE1&quot;, &quot;logginglevel&quot;:&quot;LOGGINGLEVEL_EXAMPLE1&quot;, &quot;log&quot;:&quot;LOG_EXAMPLE1&quot;},&#xa;  {&quot;date&quot;:&quot;DATE_EXAMPLE2&quot;, &quot;logginglevel&quot;:&quot;LOGGINGLEVEL_EXAMPLE2&quot;, &quot;log&quot;:&quot;LOG_EXAMPLE2&quot;},&#xa;  ...&#xa;]" style="text;whiteSpace=wrap;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="-2560" y="480" width="750" height="100" as="geometry" />
